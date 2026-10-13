@@ -40,4 +40,4 @@ The app is public once deployed. Do not upload confidential or personal files. F
 
 - MarkItDown by Microsoft, MIT licence: https://github.com/microsoft/markitdown
 - Streamlit: https://streamlit.io
-- Project 7 of the GenAI and Agentic AI programme by CA Aashish Sachdev
+- Project of GenAI and Agentic AI programme by CA Aashish Sachdev
